@@ -1,0 +1,38 @@
+.subscripe {
+  position: relative;
+}
+
+.subscripe h2 {
+  position: absolute;
+  top: 50px;
+  left: 560px;
+  color: white;
+  margin-top: 100px;
+}
+
+.subscripe img {
+  width: 100%;
+  height: 450px;
+  position: relative;
+}
+
+.subscripe .form-control {
+  width: 500px;
+}
+
+.subscripe .buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  top: 100px;
+  left: 440px;
+  margin-top: 130px;
+}
+
+.subscripe .buttons button {
+  color: white;
+  background-color: red;
+  font-size: 30px;
+}
+/*# sourceMappingURL=subscripe.css.map */

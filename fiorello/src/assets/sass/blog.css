@@ -1,0 +1,31 @@
+.header h1 {
+  text-align: center;
+}
+
+.header p {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.imgs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.imgs img {
+  width: 330px;
+  height: 200px;
+  margin-left: 50px;
+}
+
+.imgs h5 {
+  margin-left: 150px;
+}
+
+.imgs .finish {
+  width: 300px;
+  margin-left: 70px;
+}
+/*# sourceMappingURL=blog.css.map */

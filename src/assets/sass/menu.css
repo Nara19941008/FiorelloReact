@@ -1,0 +1,24 @@
+.row .navbars {
+  margin-top: 90px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.row .navbars img {
+  width: 180px;
+  height: 33px;
+}
+
+.row .navbars ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  margin-top: 5px;
+}
+
+.row .navbars ul li {
+  margin-left: 74px;
+}
+/*# sourceMappingURL=menu.css.map */
